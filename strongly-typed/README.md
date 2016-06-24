@@ -5,10 +5,10 @@
   * Шаблон главной страницы 
   ![Главная страница](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/home_page.jpg)
   Есть возможноть редактирование Главной страницы из админки
-  Блок_сервиса
+  
   ![Блок_сервиса](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/service_blok.jpg)
   ![Блок_сервиса_1](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/service_blok_1.jpg)
-  Блок_заметки
+  
   ![Блок_заметки](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/note_blok.jpg)
   * Шаблон страницы блога
   ![Страница блога](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/blog_page.jpg)
