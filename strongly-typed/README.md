@@ -27,7 +27,7 @@
   * Шаблон страницы сервиса
   ![Страница сервиса](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/service.jpg)
 
-2.  [Создание виджетов](https://github.com/php-raz/wp_theme/tree/master/strongly-typed#bot)
+2.  [[Создание виджетов]]
   * Виджет для добавления заметки. Виджет позволяет вывести небольшую заметку с картинкой
   ![Виджет_заметка](https://github.com/php-raz/wp_theme/blob/master/strongly-typed/images/img/widget_note_full.jpg)
 
